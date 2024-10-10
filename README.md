@@ -8,4 +8,4 @@ To build an intuitive web interface that allows users to upload code directly fr
 To develop an AI model that analyzes the uploaded code and predicts the necessary computational and storage resources.
 To ensure that the solution is scalable, reliable, and capable of supporting various programming languages and execution environments.
 To deliver actionable insights and visual representations of resource requirements, empowering businesses to make informed decisions regarding their cloud resource utilization.
-By achieving these objectives, Code Profile AI aims to become a trusted partner for businesses seeking to streamline their cloud operations and maximize the efficiency of their software deployments.
+By achieving these objectives, Code Profile AI aims to become a trusted partner for businesses seeking to streamline their cloud operations and maximize the efficiency of their software deployment.
